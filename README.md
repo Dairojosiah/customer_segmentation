@@ -2,6 +2,7 @@
 
 ## Project Overview
 
+
 This repository contains a customer segmentation analysis performed using KMeans clustering, Principal Component Analysis (PCA), and Exploratory Data Analysis (EDA). The main goal of the analysis is to understand customer behavior and identify distinct customer segments to aid in targeted marketing strategies and business decision-making.
 
 ## Table of Contents
